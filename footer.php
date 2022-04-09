@@ -13,7 +13,7 @@
             <li><a href="privacy" class="footer_text footer_a">Privacy</a></li>
             <li><a href="#" class="footer_text footer_a">Cookie Prefrences</a></li>
             <li><a href="corpinfo" class="footer_text footer_a">Corporate Informaion</a></li>
-            <li><a href="https://kaustubhvats-portfolio.netlify.app/#contact" target="_blank" class="footer_text footer_a">Contact Us</a></li>   
+            <li><a href="https://help.netflix.com/en/contactus" target="_blank" class="footer_text footer_a">Contact Us</a></li>   
             <li><a href="https://fast.com/" class="footer_text footer_a">Speed Test</a></li>
             <li><a href="notices" class="footer_text footer_a">Legal Notices</a></li>
             <li><a href="shows" class="footer_text footer_a">Only on Netflix</a></li>

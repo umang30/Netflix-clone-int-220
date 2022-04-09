@@ -13,7 +13,7 @@
             <li><a href="privacy" class="footer_text footer_a">प्रायवेसी</a></li>
             <li><a href="#" class="footer_text footer_a">कुकी प्रेफ़रेंस</a></li>
             <li><a href="corpinfo" class="footer_text footer_a">कॉरपोरेट जानकारी</a></li>
-            <li><a href="https://kaustubhvats-portfolio.netlify.app/#contact" target="_blank" class="footer_text footer_a">हमसे संपर्क करें</a></li>   
+            <li><a href="https://help.netflix.com/en/contactus" target="_blank" class="footer_text footer_a">हमसे संपर्क करें</a></li>   
             <li><a href="https://fast.com/" class="footer_text footer_a">स्पीड टेस्ट</a></li>
             <li><a href="notices" class="footer_text footer_a">कानूनी सूचनाएं</a></li>
             <li><a href="shows" class="footer_text footer_a">सिर्फ़ Netflix पर</a></li>
